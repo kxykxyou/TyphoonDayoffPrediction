@@ -1,5 +1,5 @@
 # TyphoonDayoffPrediction
-Given typhoon alert, predicting tomorrow will be dayoff or not
+Given typhoon alert and weather infos, predicting tomorrow will be dayoff or not
 
 ## <!> 尚未上傳LINE bot flask script
 
