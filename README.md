@@ -1,8 +1,6 @@
 # TyphoonDayoffPrediction
 Given typhoon alert and weather infos, predicting tomorrow will be dayoff or not
 
-## <!> 尚未上傳LINE bot flask script
-
 ## Topic：在已知今天發布颱風警報（不論海警或陸警）的情況下，預測明天是否放假
 
 ## 資料來源
