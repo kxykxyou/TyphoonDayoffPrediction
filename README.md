@@ -1,7 +1,8 @@
 # Typhoon Day-off Predictor
 Given typhoon alert and weather infos, predicting tomorrow will be dayoff or not
 
-## Topic：Predict Typhoon Day-off With Official Alert Announcemnet And Weather data (在已知今天發布颱風警報（不論海警或陸警）的情況下，預測明天是否放假)
+## Topic：Predict Typhoon Day-off With Official Alert Announcemnet And Weather data
+(在已知今天發布颱風警報（不論海警或陸警）的情況下，預測明天是否放假)
 
 ## Data origin
 1. 行政院人事總處歷次天災放假查詢：https://www.dgpa.gov.tw/informationlist?uid=374
